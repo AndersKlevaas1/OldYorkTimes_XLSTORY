@@ -30,6 +30,8 @@ Styrking av klubbens økonomi
 
 Økonomisk stabilitet er en forutsetning for å kunne satse langsiktig. Kvik Halden må derfor arbeide aktivt med sponsorer og samarbeidspartnere for å sikre nødvendige midler. Ved å tydeliggjøre klubbens visjoner og målsettinger kan man skape interesse og engasjement blant potensielle støttespillere.
 
+
+AVSNITT 5
 Engasjement fra supportere og lokalsamfunnet
 
 Til slutt er støtte fra fansen og lokalsamfunnet avgjørende. Ved å involvere supporterne i prosessen og skape en felles visjon for klubbens fremtid, kan man bygge en sterkere supporterbase. Dette kan også bidra til å øke tilskuertallene på kampene, noe som igjen gir både økonomisk støtte og en bedre ramme rundt arrangementene.
