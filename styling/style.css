@@ -1,22 +1,12 @@
-@property --scroll-position {
-    syntax: "<number>";
-    inherits: true;
-    initial-value: 0;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
-@property --scroll-position-delayed {
-    syntax: "<number>";
-    inherits: true;
-    initial-value: 0;
-}
 
-@keyframes adjust-pos {
-    to {
-        --scroll-position: 1;
-        --scroll-position-delayed: 1;
-    }
-}
 
+/*Under er default css til koden*/
 :root {
     animation: adjust-pos 0.01s linear both;
     animation-timeline: scroll(root);
@@ -35,11 +25,7 @@ html {
     scroll-snap-type: y mandatory;
 }
 
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
+
 
 ul {
     list-style: none;
@@ -80,6 +66,8 @@ ul li {
     padding: 1em;
     background-color: rgba(0, 0, 0, 0.5);
     max-width: 80%;
+
+  
 }
 
 .panel .content h2 {
@@ -91,11 +79,11 @@ ul li {
     font-size: 1.2em;
 }
 
-@keyframes slide-up {
-    to {
-        translate: 0 var(--end-pos);
-    }
-}
+
+/*Spesifik css*/
+
+
+/*Under er media querieries, og alt som omhandler responsiovitet*/
 
 @media screen and (max-width: 768px) {
     .panel .content h2 {
