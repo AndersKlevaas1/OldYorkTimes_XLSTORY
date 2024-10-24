@@ -57,3 +57,6 @@ Vi har dermed tatt en prat med spillere som kan være Aktuelle for Kvik:
 Konklusjon
 
 Veien tilbake til 2. divisjon vil kreve hardt arbeid, klare strategier og en samlet innsats fra hele klubben. Ved å fokusere på lokal forankring, spillerutvikling og økonomisk stabilitet, har Kvik Halden gode muligheter til å bygge et solid fundament for fremtiden. Med engasjement fra spillere, støtteapparat og supportere kan klubben igjen sikte mot høyere divisjoner og skape nye, stolte øyeblikk for haldensere.
+
+
+Kilder: https://www.web-leb.com/en/code/677, scrolleffecten er hentet fra en nettside som heter webleb, hvor andre programmere legger ut sine snippets, som folk kan brukes til eget ønske. Den snippeten vi har brukt er laget av " Andev.web "
