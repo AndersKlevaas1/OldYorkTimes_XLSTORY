@@ -1,20 +1,7 @@
-@property --scroll-position {
-    syntax: "<number>";
-    inherits: true;
-    initial-value: 0;
-}
-
-@property --scroll-position-delayed {
-    syntax: "<number>";
-    inherits: true;
-    initial-value: 0;
-}
-
-@keyframes adjust-pos {
-    to {
-        --scroll-position: 1;
-        --scroll-position-delayed: 1;
-    }
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 :root {
@@ -35,11 +22,6 @@ html {
     scroll-snap-type: y mandatory;
 }
 
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
 
 ul {
     list-style: none;
@@ -89,12 +71,6 @@ ul li {
 
 .panel .content p {
     font-size: 1.2em;
-}
-
-@keyframes slide-up {
-    to {
-        translate: 0 var(--end-pos);
-    }
 }
 
 @media screen and (max-width: 768px) {
