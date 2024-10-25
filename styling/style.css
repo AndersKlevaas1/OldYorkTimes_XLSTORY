@@ -1,3 +1,4 @@
+/*Her starter default kode*/
 * {
     box-sizing: border-box;
     margin: 0;
@@ -72,7 +73,20 @@ ul li {
 .panel .content p {
     font-size: 1.2em;
 }
+/* Her slutter Default Kode*/
 
+
+
+/*Spesielt tilpasset kode*/
+
+
+
+/*Her slutter spesielt tilpasset kode*/
+
+
+
+
+/*Responsivitet*/
 @media screen and (max-width: 768px) {
     .panel .content h2 {
         font-size: 1.5em;
@@ -100,3 +114,4 @@ ul li {
         font-size: 5vh;
     }
 }
+/*Her slutter responsivitet*/
