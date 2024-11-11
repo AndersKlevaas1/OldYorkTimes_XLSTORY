@@ -18,8 +18,10 @@ html {
     background: #666;
 }
 
-html {
-    scroll-snap-type: y mandatory;
+body, html {
+    height: 100%;
+    color: #777;
+    line-height: 1.8;
 }
 
 
@@ -36,13 +38,14 @@ ul li {
 }
 
 .panel {
-    scroll-snap-align: center;
-    height: 100vh;
-    border: 2px solid #333;
-    background: rgb(0 0 0 / 0.15);
-    z-index: -1;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     position: relative;
+    height: 100vh;
 }
+
 
 .panel img {
     display: block;
