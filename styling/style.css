@@ -37,6 +37,16 @@ ul li {
     line-height: 1;
 }
 
+header {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    font-size: 4.5rem;
+    padding-top: 15rem;
+    margin-right: 155px;
+    color: #fff;
+}
+
 .panel {
     background-attachment: fixed;
     background-position: center;
@@ -88,6 +98,8 @@ ul li {
     .titles {
         font-size: 6vh;
     }
+
+   
 }
 
 @media screen and (max-width: 480px) {
