@@ -92,7 +92,60 @@ header {
 }
 
 .article-content {
+}
 
+.people-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 20vh;
+    background-color: #f0f0f0;
+}
+
+.person {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    transition: background-color 0.5s ease;
+}
+
+.person.red {
+    background-color: red;
+}
+
+
+.person::before,
+.person::after {
+    content: '';
+    width: 15px; 
+    height: 15px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 30%; 
+    animation: blink 2s infinite; 
+}
+
+
+.person::before {
+    left: 30%; 
+}
+
+
+.person::after {
+    right: 30%; 
+}
+
+
+@keyframes blink {
+    0%, 90%, 100% {
+        height: 15px; 
+    }
+    95% {
+        height: 2px; 
+    }
 }
 
 @media screen and (max-width: 768px) {

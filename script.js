@@ -1,17 +1,17 @@
-// Scroll til toppen funksjon
-const scrollToTopBtn = document.getElementById("scroll-to-top");
 
-window.onscroll = function() {
-    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-        scrollToTopBtn.style.display = "block";
+const people = document.querySelectorAll(".person");
+const peopleContainer = document.querySelector(".people-container");
+
+
+function checkScrollPosition() {
+    const containerTop = peopleContainer.getBoundingClientRect().top;
+    const triggerPoint = window.innerHeight * 0.5; 
+
+    if (containerTop < triggerPoint) {
+        people.forEach(person => person.classList.add("red"));
     } else {
-        scrollToTopBtn.style.display = "none";
+        people.forEach(person => person.classList.remove("red"));
     }
-};
+}
 
-scrollToTopBtn.addEventListener("click", function() {
-    window.scrollTo({
-        top: 0,
-        behavior: 'smooth'
-    });
-});
+window.addEventListener("scroll", checkScrollPosition);
