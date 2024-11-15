@@ -177,3 +177,10 @@ header {
         font-size: 5vh;
     }
 }
+
+
+/*Kart */
+
+#map { 
+    height: 35rem; 
+}
