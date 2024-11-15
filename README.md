@@ -1,65 +1,86 @@
-Fra Stjerne i Bodø Glimt til benken på Halden Stadion 
+Fra Gull til Gråstein 
 
 
-Markus Brandon Manirakiza ble sett på som et av de største talentene i 2004-årgangen. Han ble flydd inn for å spille aldersbestemte kamper, for junioravdelingen til Bodø Glimt og ventet seg en karriere de fleste bare kunne drømme om. 
-Men på tross av sitt talent, tok karrieren en uventet vending. Hvordan kunne et av Nordlands største talenter ende opp i 5. divisjon, bare 5 år etter å ha vært spådd en storslått fremtid?
+Markus Manirakiza, en 20 år gammel gutt, har erfart både de høye toppene og de dype dalene som følger med å spille fotball – verdens største sirkus.
+
+Jeg møter Markus på Høgskolen i Østfold, i et grupperom i grå betong. Vi passerer gjennom en gang, opp en trapp. Fra kantina høres latter, og inn i rommet kommer en ung mann med kapsen bak fram og "Amundsen" på jakka. Markus er liten og kompakt, med et utseende som ikke umiddelbart skriker fotballspiller. 
+
+Nå kombinerer han et årsstudium ved Høgskolen i Østfold med spill i 3. divisjon. Men hvordan kunne det gå så galt?
+
+Den samme gutten som sitter her på et nedslitt, grått grupperom. Vant turneringens beste spiller i elitecupen i Skien fire år tidligere, han herjet med fotballspillere som i dag er verdt titalls millioner. Hvordan kunne det gå så galt? 
 
 
-Denne historien starter på Høgskolen i Østfold, gjennom en gang. Opp en trapp. Og inn i et betonggrått grupperom. 
-Man kan skimte latter fra kantinen i det man ser en 20 år gammel gutt med kapsen bak frem, og Amundsen på jakka entre rommet. Den samme gutten vant turneringens beste spiller i elitecup i skien 4 år før. 
+Markus sier hei med et bredt smil idet han setter seg ned med en kopp kaffe. 
 
-Han regelrett herjet med, fotballspillere som i dag er verdt titalls millioner.
- Markus sier hei, med et bredt smil som gjør det betongtyngede grupperommet litt lettere. Man kan kjenne solstrålene fra solen treffe de gigantiske vinduene på skolen, idet han setter seg ned med en kopp kaffe, før han knepper opp jakken og gjør seg klar til å fortelle sin historie. 
-
-Markus ble født i Bodø og mener dermed han er ekte «Bodøværing». Det var der han tilbragte sine første leveår sammen med Far Jean, og mor Cyntia, samt hans et år eldre bror Jon. Før ferden deres bar videre til Narvik, hvor han fikk lillebroren Robin og lillesøsteren Alicia. Med et lidenskapelig uttrykk beskriver Markus sin oppvekst. Han bodde bare et steinkast unna skolen og spilte på fotballaget Mjølner. 
-
-Når Markus fyller 10 år gammel, begynner ryktene å spre seg om bodøværingen med bakgrunn fra Burundi, og tyngdepunkt fra Brasil. Som herjer med de jevnaldrende guttene på kunstgressmatter hard som LEGO langt opp i nord. Markus skildrer energisk hvordan dagene gikk ut på å få gjort så mye lekser i friminuttene som mulig. Slik at de fikk så mye tid i binga som mulig, før det ble mørkt. 
-
-Han forteller om intense vinterkvelder og evigvarende sommerkvelder, hvor det gikk hardt for seg i bingen. Kanskje det var akkurat disse kveldene som la grunnlaget til Markus. 
- Kanskje det var akkurat disse kveldene som gjorde at Markus noen år seinere blir snappet opp av noen Bodø Glimt speidere, og går gradene i Statoils talentutvikling modell. Først sone, så krets, deretter region. Nå blir Markus ansett som en av de beste fotballspillerne i hele Nordland på i hans årsklasse.
+Markus Brandon Manirakiza ble en gang regnet som et av Norges største fotballtalenter født i 2004. Allerede som tidlig tenåring ble han fløyet inn for å spille aldersbestemte kamper med juniorlaget til Bodø/Glimt, og mange spådde ham en drømmekarriere få får oppleve. Men til tross for sitt store talent, tok karrieren en uventet vending. Hvordan kunne en av Nordlands mest lovende spillere visne på denne måten?
 
 
-Markus lever drømmen til en 14 år gammel gutt, også skjer det som ikke skal skje. Det energiske uttrykket visner, og man kan sakte men sikkert skimte en rynke åle seg nedover pannen hans i det han skildrer dagen han fikk beskjed om at de skulle flytte. Det alvorlige ansiktsuttrykket og den bekymrede rynken forsvinner like fort som de kom, og Markus ler mens han forteller. At det eneste han viste om Halden var at det var der Allsang på grensen var. Og trodde derfor at alle bodde i steinaktige hus og at byen var full av eldgamle hus og kanoner.
+Markus ble født i Bodø og ser på seg selv som en ekte «Bodøværing». Han tilbrakte sine første år i byen før veien gikk videre til Narvik. Med et lidenskapelig uttrykk beskriver Markus oppveksten – bare et steinkast fra skolen – hvor han spilte for Mjølner. «Det var et fellesskap og en trygghet,» forteller han, som satte dype spor.
 
-Markus begynner å spille fotball i Kvik Halden, og raskt utmerker han seg. Fotballen blir et fristed hvor han kan uttrykke seg og føle seg fri, når alt annet føles nytt og ukjent. Det er også nå han blir med på den sagnomsuste elitecuppen, hvor han regelrett herjer med norgeseliten. 
-Man skjønner fort at Markus har et nivå inne som er mye høyrere enn det Kvik er i stand til å tilby. Og etter en liten rundtur til alle toppklubbene i Østfold, faller valget på Ffk. Markus hadde en sentral rolle som første års junior på et meget godt Ffk lag som også vant interkrets det året, som prikken over i en ble Markus delt toppscorer. 
+Da Markus fylte 10, begynte ryktene å svirre om den talentfulle bodøværingen med røtter fra Burundi og et fotballinstinkt som minnet om brasiliansk finesse. På de harde kunstgressbanene langt oppe i nord dominerte han jevnaldrende spillere. Han brukte friminuttene til å gjøre unna leksene, alt for å få mer tid i «binga» før mørket la seg over byen.
+
+Markus beskriver både de intense vinterkveldene og de evige sommerkveldene der han og vennene virkelig slo seg løst på ekte nordlandsk vis i «binga». Kanskje var det nettopp disse øyeblikkene som la grunnlaget for hans videre reise?
+
+Han fortsatte utviklingen, og noen år senere ble han oppdaget av speidere fra Bodø/Glimt og avanserte raskt gjennom nivåene i Statoils talentutviklingsmodell – først sone, så krets å til slutt region. Markus ble regnet som en av de beste fotballspillerne på sin alder i hele Nordland. Han levde drømmen, og fantasien om en dag å spille for Bodø/Glimts A-lag ble stadig sterkere.
+
+Men så kom den verst tenkelige beskjeden for en 14-åring med Narvik som universets sentrum. Familien måtte flytte – faren til Markus hadde fått jobb i Halden.
+
+«Husker du hva du tenkte da du fikk beskjeden?»
+
+«Ja, det er noen øyeblikk som brenner seg fast, og denne dagen er en av dem. Jeg husker fortsatt hvordan jeg stusset da mamma og pappa sa vi skulle ha familieråd. Vi hadde aldri hatt noe slikt før. Og følelsen av å bli slått i magen da jeg forsto hva som var i ferd med å skje – den glemmer jeg aldri.» 
+
+Markus begynte å spille fotball i Kvik Halden, hvor han raskt utmerket seg. Fotballen ble et fristed – et sted hvor han kunne føle seg hjemme når alt annet føltes nytt og fremmed. For Markus var det viktigste å ha en arena der han kunne uttrykke seg fritt og føle seg som hjemme.
+
+Under en elitecup viste han virkelig hvilket nivå han holdt. Han dominerte mot Norges beste unge spillere, og det ble tydelig at Kvik Halden ble for lite for ham. Etter å ha vært innom flere toppklubber i Østfold, falt valget på FFK. Som førsteårs junior spilte han en sentral rolle på laget som vant interkrets, og han ble delt toppscorer.
+
+Markus smiler og rister litt på hodet når han blir spurt om han vet hvor noen av de gamle lagkameratene hans er nå. «Ja, dessverre,» svarer han med et lite smil som falmer etter hvert som han fortsetter.
+
+Han begynner å ramse opp navnene: Pawel, som de siste tre årene har spilt i Eliteserien for Rosenborg, KBK og Sarpsborg 08. Ethan Gray, som først ble kjøpt av FC København og i sommer signerte for Aston Villa. Ole Langbråten, som fremdeles er i FFK, nå som tredjekeeper i Eliteserien. Og Filip Stensland, som fortsatt spiller på toppnivå i Skeid.
+
+Det er en blanding av stolthet og vemod i stemmen hans når han snakker om de gamle lagkameratene, vel vitende om hvor langt de har kommet – en påminnelse om hans egen vei og hvor nære han selv var.
+
+Når samtalen dreier seg inn på hvilket nivå han selv var på den gangen, legger han ikke skjul på sine tanker. «Jeg føler at jeg var på et veldig høyt nivå da, på linje med de andre som nå spiller i Eliteserien og utlandet,» sier han ettertenksomt. «Det er litt bittert å tenke på, men jeg er stolt av det jeg oppnådde, og jeg vet at jeg fortsatt har mye å gi.»
+
+Med et alvorlig uttrykk i blikket retter Markus seg opp i stolen. Han reflekterer videre over hva som faktisk skiller de beste fra resten. «Det er lett å tro at det handler om teknikken med føttene,» sier han, «men det er bare en del av bildet. Man må ha talent for koordinasjon og være genetisk heldig med fysikken. Men det som virkelig skiller de som er ganske gode fra de som blir veldig gode, er noe annet.» 
+
+Markus nøler litt før han utdyper videre. «Det er hodet som bestemmer hvor god du blir,» sier han med overbevisning. «Fotball er som sjakk – det handler om valg etter valg etter valg. Jo større ferdighetsregister du har, desto flere valg står du overfor. Men det hjelper lite hvis du ikke klarer å ta de rette valgene.»
+
+Han fortsetter, stemmen litt lavere, men med en intensitet som understreker alvoret i det han sier. «For å kunne ta de riktige valgene, må man ha et hode som fungerer under press. Et hode som tåler å feile, som kan stå i situasjoner hvor det ikke går som planlagt. Det er den mentale styrken, evnen til å holde hodet kaldt, som virkelig skiller klinten fra hveten.»
+
+Markus trekker pusten dypt før han svarer på spørsmålet om hva som egentlig skjedde med ham. «Det er nok en sammensetning av grunner til at utviklingen min stanset så dramatisk,» sier han stille. «Men ja, den mentale biten var nok en faktor.»
+
+Jeg spør videre: «Vil du si at man kan sette et punktum før og etter sesongen din i FFK?»
+
+Han tenker seg om, plasserer begge hendene på hver sin side av stolen og svarer: «Ja, man kan nok dessverre det. Selv om jeg trivdes godt, ble dagene lange og krevende. Jeg var som regel borte fra halv sju om morgenen til ti på kvelden, og det begynte virkelig å tære på.»
+
+Markus beskriver hvordan den hektiske hverdagen i FFK kombinert med en krevende familiesituasjon gjorde det vanskelig å holde motivasjonen oppe. Moren hans hadde ikke førerkort, så all transport falt på tog og kollektivtrafikk. Med tre yngre søsken som også trengte skyss til og fra aktiviteter, var logistikken en daglig kamp. Fotballen, som tidligere hadde vært en kilde til glede og mestring, begynte å føles som en byrde. Lange dager med skole, trening og kamper, uten mulighet til å slappe av og lade opp, tok sakte men sikkert gnisten ut av ham.
+
+«Det var en tøff tid,» sier han ettertenksomt. «Fotballen var ikke lenger bare lidenskap og glede. Presset, slitne dager og den konstante pendlingen slet meg ut, både fysisk og mentalt. Etter hvert ble det vanskelig å holde fokus og virkelig yte mitt beste.»
+
+Ordene hans gjenspeiler en tøff tid, en periode der lidenskapen han hadde for fotball møtte veggen i form av praktiske utfordringer og mangel på støtte. 
 
 
-Jeg spør Markus, «vet du hvor noen av de du spilte på lag med da, er nå?» Markus smiler og rister på hodet. Før han svarer «ja dessverre», og ramser opp. Pawel har spilt i eliteserien de siste 3 årene i Rosenborg, Kbk og Sarpsborg 08. Ethan Gray ble kjøpt av FC København, og signerte for Aston Villa i sommer. Ole Langbråten er den eneste som er igjen i Ffk og er dermed 3 keeper i eliteserien. Den siste som fortsatt spiller på toppnivå, er Filip Stensland som spiller i Skeid.  
+Når jeg spør hvorfor han måtte bytte klubb, forklarer Markus: «Da Kvik Halden tilbød meg en proffkontrakt og tilrettelegging på idrettslinja, føltes det som det rette valget for både min utvikling og velvære.»
+
+I Kvik fikk han proffkontrakt med A-laget i 2. divisjon, og det første året fikk han åtte kamper. Han husker spesielt sin første 4 mot 4-trening: «Det var så fysisk krevende at jeg trodde jeg skulle dø. Ole Strømsborg på andre siden var som en bjørn.»
+
+Men så endret ting seg, og spilletiden hans begynte å forsvinne. «Som jeg har sagt tidligere, hodet er fotballspillerens viktigste verktøy. Men for min del begynte hodet å jobbe mot meg i stedet for med meg,» sier han åpenhjertig.
+
+Når jeg spør hvorfor det skjedde, utdyper han: «Jeg hadde vært i Kvik en stund, og etter hvert begynte spillere på min alder som Marius Opphaug, Lucas Fritzen og Benjamin Stensland å ta igjen på meg. Jeg tror jeg aldri helt klarte å takle den følelsen. I tillegg presterte de når de fikk sjansen, noe jeg aldri helt klarte – jeg slet med å holde hodet over vannet. Jo bedre de andre ble, jo dårligere følte jeg meg. Det var som et sort hull som bare dro meg nedover.»
+På spørsmål om han ville gjort noe annerledes hvis han kunne gå tilbake til denne tiden, blir Markus ettertenksom. «Jeg ville kanskje vært mer tålmodig og ærlig med både meg selv og de rundt meg om de følelsene jeg bar på,» sier han rolig. «Og kanskje oppsøkt hjelp i stedet for å prøve å fikse alt selv.»
+Når jeg spør hva han tenker om at ingen av de tidligere lagkameratene jeg nevnte nå lenger er i toppfotballen, får han et alvorlig uttrykk. «Det er først og fremst veldig trist,» sier han stille. «Samtidig er det en slags bekreftelse – på at det ikke var ferdighetene jeg manglet den gangen.»
+
+Når jeg spør Markus hvordan han endte opp i Idd, et lag i 5. divisjon, og hva han tenkte om det steget, svarer han med en ro som har kommet over tid. «Nei, jeg følte meg ikke mislykket,» sier han bestemt, selv om han innrømmer at det har vært tider hvor tanken streifet ham. Å gå fra toppklubbambisjoner til et lavere nivå var en stor kontrast, og han kunne kjenne på skuffelsen over at drømmen han en gang hadde sett for seg, ikke gikk slik han håpet.
+
+Men overgangen til Idd ble et viktig steg for ham, mer enn bare et klubbytte. «For meg handlet det om å finne tilbake til fotballgleden. Jeg ønsket bare å spille igjen, få spilletid og bygge opp selvtilliten,» forklarer han. «Idd ble et sted der jeg kunne få den friheten og tryggheten jeg trengte for å bli kjent med fotballen på nytt, uten presset fra høyere nivåer.»
+
+Markus beskriver hvordan Idd også hadde flere spillere med erfaring fra toppfotballen og andre idretter, som håndball. Dette laget ga ham både støtte og forståelse, noe som hjalp ham til å håndtere følelsen av nederlag. «De hjalp meg med å se ting i et annet lys, å adressere problemene jeg slet med, og støttet meg i å håndtere dem,» sier han. «Gjennom tiden i Idd fant jeg tilbake til gleden ved fotball – det som egentlig var fristedet mitt.»
+
+Det lille steget bakover ga ham den nødvendige støtten til å bygge seg opp igjen, både som spiller og som person. «Det er nok en av grunnene til at jeg ikke har gitt opp drømmen i dag,» avslutter han med et smil, takknemlig for at han kunne finne styrke i en tid da det var lett å føle seg mislykket.
 
 
+Markus’ reise har vært preget av både oppturer og nedturer, men kjærligheten til fotballen har alltid vært der. Etter tiden i Idd, hvor han fant tilbake til gleden ved spillet, kom muligheten han hadde ventet på da han signerte for Sarpsborg 08. Det øyeblikket bekreftet at hardt arbeid og tålmodighet kan føre tilbake til nye sjanser, selv når veien dit ikke har vært enkel.
 
-«Vil du si at man kan sette et punktum før og etter sesongen din i Ffk?» Markus trekker litt på svaret, sitt før han plasserer begge hendene på hver sin side av stolen og sier ja. Man kan nok dessverre det. Selv om jeg stortrivdes i Ffk, ble det lange dager med tanke på at jeg var 16 år og fortsatt gikk på skolen. Og var som regel bort fra halv sju på morgenen til ti på kvelden. Og jeg må ærlig innrømme at det begynte å tære på. 
+Med et forsiktig smil sier han: «Det er stort å ha en klubb som Sarpsborg 08 som tror på meg. Det viser at hvis man jobber hardt, vil resultatene komme.»
 
-Da Kvik tilbød meg en proffkontrakt med A-laget i 2. divisjon, og samtidig tilrettela på idrettslinja i Halden, var det et tilbud jeg ikke kunne si nei til. Første året gikk egentlig veldig bra jeg fikk 8 kamper av de 2 fra start og jeg følte at utviklingen min fortsatt gikk riktig vei. Jeg husker fortsatt godt første gang jeg var med på 4 mot 4 spill, det vill si at man spiller på en veldig liten bane. Man kan nesten skyte fra hele banen.  Det er 4 på hvert lag pluss en keeper, og er nok en av de mest fysisk krevende øvelsene når det kommer til intensitet. Jeg tuller ikke når jeg sier at jeg trodde jeg skulle dø når jeg så Ole Strømsborg på andre siden, han var så stor og sterk at det føltes som å spille mot en bjørn. 
-
-Markus hadde en positiv utvikling og øste inn mål på 2.laget til Kvik, han ble faktisk toppscorer samme år som han kom. Men selv om utviklingen han tilsynelatende var positiv, var ikke minuttene på banen det. Og Markus innrømmer at han kjente på frustrasjon. 
-
-Vis jeg sier at Benjamin Stensland, Konrad Thorvaldsen, Lucas Fritzen og Marius Opphaug alle er spillere som fikk flere minutter enn deg. Hva tenker du da?»
-
- Markus letter på smilebåndet, og løfter armene i været som et tegn på håpløshet, før han for summet seg og utdyper. Benjamin og Marius kom ble jo Ffk i noen år til, og var nokk sett på som mer eksotiske. Det er jo ofte sånn at unge spillere hentet fra klubber i høyere ligasystem, blir automatisk litt bedre. Nettopp på grunn av det. Mens Konrad og Lucas er veldig andre spillertyper enn det jeg er, og det blir derfor vanskelig å sammenlignes med dem. 
-
-Hva tenker du om at ingen av dem lenger befinner seg i toppfotballen? Markus for en alvorlig mine. Før han begynner å utdype. Det er først og fremst veldig trist, at de har falt gjennom, og jeg har egentlig ikke noe mer å kommentere på det enn det. 
-
-Vis du nå kunne spolt tilbake hadde du gjort noe annerledes?  Den samme alvorlige rynken hans, ormer seg nedover øyenbrynene hans igjen. Det er lett å bli etterpåklok, men jeg burde nok blitt i Fkf, og bitt tennene sammen. Når det ble som det ble. 
-
-Hva legger du i det? Jeg var i Kvik i 3 år og hadde 4 hovedtrenere i min periode nummer 2 i klubben, alle med hver sin visjon for hvordan fotball skal spilles. Det blir vanskelig å spille seg inn i et A-lag, som unggutt da, spesielt når man er en kreativ midtbanespiller som meg. Også må man huske på at jeg selvfølgelig hadde et liv utenfor fotballbanen også, i mye større grad en jeg kunne hatt hvis jeg skulle pendla til en annen  by. 
-
-Hadde du andre tilbud? Ja, nå er det agenten min som primært tok ansvar for det. Men jeg hadde interesse fra andre klubber i samme divisjon som Kvik samt divisjonen under. Men for hver gang det kommer en ny trener, øyner det også et nytt håp. Da regner jeg med at jeg ikke trenger å utdype meg ytterligere om at jeg har mye skuffet. 
-
-Men det endte med at du dro hvorfor det? Man går jo til slutt lei av å sitte på benken, også må man huske på at jeg fortsatt bare er 20 år gammel. Og var enda yngre da, så jeg var rett å slett desperat etter å spille fotballkamper igjen.
-
-Markus signerte overraskende nok for 5.divisjonslaget, Idd og bidro til et opprykk. Før han samme vinteren signerte for Sarpsborg 08, hvor han forklarer at han hadde en trenings og kamphverdag hovedsakelig for Sarpsborg 08 2-lag. 
-
-Hva gjorde at du endte opp med å dra til idd? Jeg hadde egentlig lyst til å dra til Ttif sommeren 2023, jeg var lei av å sitte på benken. Og ville ha kamptrening på et A-lag, Ttif har både et flott anlegg og spilte da i 4.divisjon, som betyr at det var det nest best laget i byen. Og det ble derfor et ganske enkelt valg for meg. 
-
-Problemet var at kvik sitt 2.lag også spilte i 4.divisjon på den tiden. Og anså Ttif som direkte konkurrenter, og ville derfor ikke slippe meg. Markus sukker før han fortsetter, dette var noe de hadde rett til i og med at jeg hadde en proffkontrakt. Men det var fortsatt utrolig kjedelig, og surt den gang. Markus smiler, og legger til men jeg burde kanskje sende en takkekort til Kjetil, med tanke på så bra det gikk. 
-
-Hvordan føltes det å bli tatt inn i varmen av en eliteserieklubb? Markus prøver å skjule det, men det er umulig for han å skjule stoltheten. Det er klart at det er stort, veldig hyggelig at en klubb som Sarpsborg 08. Som har fått frem så mange unge talenter de siste årene. Har troen på meg, og det viser jo at hvis man jobber hardt og har troa på det man gjør, så vil man til slutt høste resultater. 
-
-
-
-
-
-
-
+Hvis Markus kunne gitt sitt 13 år gamle jeg et råd, ville det vært enkelt: Aldri gi opp, og husk hvorfor du elsker spillet. Han ønsker nå å bygge videre på det han har lært, og la gleden ved fotballen være drivkraften – en påminnelse om hvorfor han startet i utgangspunktet. Hans historie viser at veien mot drømmen kan ha svinger og hindringer, men for de som fortsetter å jobbe mot målet, vil det alltid finnes nye muligheter.
