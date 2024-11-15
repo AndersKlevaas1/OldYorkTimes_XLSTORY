@@ -200,3 +200,12 @@ button {
     display: block;
     margin: 0 auto;
 }
+
+
+
+
+/*Kart */
+
+#map { 
+    height: 35rem; 
+}
