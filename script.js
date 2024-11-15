@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 // Scroll til toppen funksjon
 const scrollToTopBtn = document.getElementById("scroll-to-top");
 
@@ -15,3 +16,5 @@ scrollToTopBtn.addEventListener("click", function() {
         behavior: 'smooth'
     });
 });
+=======
+>>>>>>> Stashed changes

@@ -1,15 +1,26 @@
 <!DOCTYPE html>
 <html lang="no">
 <head>
+<<<<<<< Updated upstream
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Responsiv Artikkel</title>
     <link rel="stylesheet" href="/styling/style.css">
+=======
+  <meta charset="UTF-8">
+  <title>Fra Stjerne i Bodø Glimt til benken på Halden Stadion</title>
+  <link rel="stylesheet" href="styling/style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+  crossorigin=""/>
+
+>>>>>>> Stashed changes
 </head>
 <body>
 
  
 
+<<<<<<< Updated upstream
     <main>
         <header>
         <h1>Veien Videre</h1>
@@ -27,6 +38,36 @@
                 Sitat Kjetil Andreassen (sportsprat)</p>
         </section>
       
+=======
+    <div class="panels">
+        <!-- Panel 1 -->
+        <div class="panel" style="background-image: url('Pictures/svart.png');">
+            <div class="content">
+                <!-- <h1>Fra Gull til gråstein</h1> -->
+                <p>Forestill deg</p>
+            </div>
+        </div>
+        <!-- Panel 2 -->
+        <div class="panel" style="background-image: url('Pictures/svart.png');">
+            <!-- Bilde av Markus med Caps og jakke som går inne på skolen -->
+            <div class="content">
+                <p>At <strong>alle</strong> heier på deg </p>
+            </div>
+        </div>
+        <!-- Panel 3 -->
+        <div class="panel" style="background-image: url('Pictures/svart.png');">
+            <div class="content">
+                <p>Ja absolutt  <strong>alle</strong></p>
+            </div>
+        </div>
+        <!-- Panel 4 -->
+        <div class="panel" style="background-image: url('Pictures/svart.png');">
+            <div class="content">
+                <p>Utenom deg selv</p>
+            </div>
+        </div>
+    </div>
+>>>>>>> Stashed changes
 
         <section id="meningen-bak-sitat">
             <p>Når han sier dette referer han til arbeidsmåten og utviklingsmålene til klubben som en enhet. Og vi har derfor et par punkter vi tror vi blir avgjørende som omhandler strukturen av organisasjonen. </p>
@@ -36,7 +77,9 @@
             <h2>Treningsfasiliteter og hjemmebane</h2>
             <p> Diskusjonen om å flytte A-lagets kamper fra Halden stadion til Strupe er et sentralt tema. En slik flytting kan samle klubbens aktiviteter på ett sted, noe som kan styrke fellesskapet og gjøre det lettere å integrere A-laget med resten av klubben. Samtidig må man veie dette opp mot tapet av en sentrumsnær arena og de utfordringene det kan medføre med tanke på publikumsoppslutning og banekapasitet.</p>
         </section>
+   
 
+<<<<<<< Updated upstream
         <section id="okonomi">
             <h2>Styrking av klubbens økonomi</h2>
             <p>Økonomisk stabilitet er en forutsetning for å kunne satse langsiktig. Kvik Halden må derfor arbeide aktivt med sponsorer og samarbeidspartnere for å sikre nødvendige midler. Ved å tydeliggjøre klubbens visjoner og målsettinger kan man skape interesse og engasjement blant potensielle støttespillere.</p>
@@ -80,3 +123,27 @@
 
 q7</body>
 </html>
+=======
+        
+    <!-- Kartcontaineren -->
+    <div id="map"></div>
+
+    <!-- Inkluder Leaflet JavaScript etter CSS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+            crossorigin=""></script>
+    <script>
+        // Opprett kartet og sett det sentrert over Norge
+        var map = L.map('map').setView([64.5, 11.5], 5);
+    
+        // Legg til OpenStreetMap flislag
+        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+         </script>
+     
+   
+</body>
+</html>
+>>>>>>> Stashed changes
