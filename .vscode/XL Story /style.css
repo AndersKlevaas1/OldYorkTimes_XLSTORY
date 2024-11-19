@@ -1,0 +1,186 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    animation: adjust-pos 0.01s linear both;
+    animation-timeline: scroll(root);
+}
+
+body {
+    transition: --scroll-position-delayed 0.15s linear;
+    --scroll-velocity: calc(var(--scroll-position) - var(--scroll-position-delayed));
+}
+
+html {
+    background: #ffffff;
+}
+
+body, html {
+    height: 100%;
+    color: #000000;
+    line-height: 1.8;
+}
+
+
+ul {
+    list-style: none;
+    pointer-events: none;
+    line-height: 1;
+    display: block;
+}
+
+ul li {
+    display: block;
+    line-height: 1;
+}
+
+header {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    font-size: 4.5rem;
+    padding-top: 15rem;
+    margin-right: 155px;
+    color: #fff;
+}
+
+.panel {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 100vh;
+}
+
+
+.panel img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(30%);
+}
+
+.panel .content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    padding: 1em;
+    background-color: rgba(0, 0, 0, 0.5);
+    max-width: 80%;
+}
+
+.panel .content h2 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+.panel .content p {
+    font-size: 1.2em;
+}
+
+.justifycontent {
+    display: flex;
+    justify-content: center;
+}
+
+.article-content {
+}
+
+.people-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 20vh;
+    background-color: #f0f0f0;
+}
+
+.person {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    transition: background-color 0.5s ease;
+}
+
+.person.red {
+    background-color: red;
+}
+
+
+.person::before,
+.person::after {
+    content: '';
+    width: 15px; 
+    height: 15px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 30%; 
+    animation: blink 2s infinite; 
+}
+
+
+.person::before {
+    left: 30%; 
+}
+
+
+.person::after {
+    right: 30%; 
+}
+
+
+@keyframes blink {
+    0%, 90%, 100% {
+        height: 15px; 
+    }
+    95% {
+        height: 2px; 
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .panel .content h2 {
+        font-size: 1.5em;
+    }
+
+    .panel .content p {
+        font-size: 1em;
+    }
+
+    .titles {
+        font-size: 6vh;
+    }
+
+   
+}
+
+@media screen and (max-width: 480px) {
+    .panel .content h2 {
+        font-size: 1.2em;
+    }
+
+    .panel .content p {
+        font-size: 0.9em;
+    }
+
+    .titles {
+        font-size: 5vh;
+    }
+}
+
+
+/*Kart */
+
+#map { 
+    height: 35rem; 
+}
